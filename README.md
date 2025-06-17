@@ -65,7 +65,7 @@ AppServiceConsoleLogs
 | **Severity**                | `2` (High) or `3` (Medium)    |
 
 ## Demo Video
-🎬 Watch Demo Here: YouTube Demo
+🎬 Watch Demo Here: 
 
 ### How to Test the App
   1. Clone the repository:
